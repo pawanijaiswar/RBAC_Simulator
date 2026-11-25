@@ -1,0 +1,24 @@
+{
+    "Administrator": [
+        "public_files.view",
+        "academic_notes.view",
+        "academic_notes.upload",
+        "student_records.view",
+        "student_records.edit",
+        "system_files.delete"
+    ],
+    "Faculty": [
+        "public_files.view",
+        "academic_notes.view",
+        "academic_notes.upload",
+        "student_records.view",
+        "student_records.edit"
+    ],
+    "Student": [
+        "public_files.view",
+        "academic_notes.view"
+    ],
+    "Guest": [
+        "public_files.view"
+    ]
+}
